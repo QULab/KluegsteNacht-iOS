@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (1.2.0)
+  - PKHUD (3.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 1.1)
+  - PKHUD (from `https://github.com/pkluz/PKHUD.git`)
+
+EXTERNAL SOURCES:
+  PKHUD:
+    :git: https://github.com/pkluz/PKHUD.git
+
+CHECKOUT OPTIONS:
+  PKHUD:
+    :commit: b038af9efc4383d8cc95317a978fea545a503ff4
+    :git: https://github.com/pkluz/PKHUD.git
+
+SPEC CHECKSUMS:
+  Alamofire: d765c5c1713aa64106b0228aaa600a1e6851f68d
+  PKHUD: 4167eccdb1b3a892fd80ce2b51cb6ba412a889ab
+
+PODFILE CHECKSUM: 743736ae2af643096e6c609769956daed68b3cfb
+
+COCOAPODS: 1.0.0.beta.6

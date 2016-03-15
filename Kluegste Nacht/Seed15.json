@@ -1,0 +1,984 @@
+ [
+  {
+  "id": "1",
+  "number": "1",
+  "name": "Adlershof",
+  "art": "Ringlinie",
+  "takt": "15 Minuten",
+  "anbindung": null,
+  "haltestellen": [
+                   {
+                   "id": "1",
+                   "name": "S Adlershof",
+                   "geo1": "52.43409,13.53775",
+                   "umstieg": "S8, S9, S45, S46, S85"
+                   },
+                   {
+                   "id": "2",
+                   "name": "Walther-Nernst-Straße",
+                   "geo1": "52.43222,13.53494",
+                   "umstieg": "Übergang zur Route 2 (Hochschule für Technik und Wirtschaft)"
+                   },
+                   {
+                   "id": "3",
+                   "name": "Erwin-Schrödinger-Zentrum",
+                   "geo1": "52.43118,13.53319",
+                   "umstieg": "Übergang zur Route 2 (Hochschule für Technik und Wirtschaft)"
+                   },
+                   {
+                   "id": "4",
+                   "name": "Newtonstraße/Am Großen Windkanal",
+                   "geo1": "52.43208,13.53075",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "5",
+                   "name": "Johann-Hittorf-Straße/Max-Born-Straße",
+                   "geo1": "52.43188,13.52637",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "180",
+                   "name": "James-Franck-Straße",
+                   "geo1": "52.42837,13.52299",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "6",
+                   "name": "Rudower Chaussee/Wegedornstraße",
+                   "geo1": "52.42887,13.52740",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "69",
+                   "name": "Magnusstraße/Albert-Einstein-Straße",
+                   "geo1": "52.42899,13.53233",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "122",
+                   "name": "Albert-Einstein-Straße",
+                   "geo1": "52.42707,13.52932",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "7",
+                   "name": "Richard-Willstätter-Straße",
+                   "geo1": "52.42655,13.53679",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "210",
+                   "name": "Volmerstraße/Rudower Chaussee",
+                   "geo1": null,
+                   "umstieg": null
+                   },
+                   {
+                   "id": "121",
+                   "name": "Walther-Nernst-Straße",
+                   "geo1": "52.43195,13.53502",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "9",
+                   "name": "S Adlershof",
+                   "geo1": "52.43399,13.53825",
+                   "umstieg": "S8, S9, S45, S46, S85"
+                   }
+                   ]
+  },
+  {
+  "id": "14",
+  "number": "2",
+  "name": "Hochschule für Technik und Wirtschaft",
+  "art": "Ringlinie",
+  "takt": "20 Minuten",
+  "anbindung": null,
+  "haltestellen": [
+                   {
+                   "id": "96",
+                   "name": "Erwin-Schrödinger-Zentrum",
+                   "geo1": "52.43118,13.53319",
+                   "umstieg": "Übergang zur Route 1 (Adlershof)"
+                   },
+                   {
+                   "id": "97",
+                   "name": "S Schöneweide",
+                   "geo1": "52.45634,13.51025",
+                   "umstieg": "S8, S9, S46, S47, S85"
+                   },
+                   {
+                   "id": "93",
+                   "name": "Rathenaustraße/HTW",
+                   "geo1": "52.45876,13.52609",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "98",
+                   "name": "S Schöneweide",
+                   "geo1": "52.45598,13.51025",
+                   "umstieg": "S8, S9, S46, S47, S85"
+                   },
+                   {
+                   "id": "134",
+                   "name": "Walther-Nernst-Straße",
+                   "geo1": "52.43213,13.53468",
+                   "umstieg": "Übergang zur Route 1 (Adlershof)"
+                   },
+                   {
+                   "id": "135",
+                   "name": "Erwin-Schrödinger-Zentrum",
+                   "geo1": "52.43118,13.53319",
+                   "umstieg": "Übergang zur Route 1 (Adlershof)"
+                   }
+                   ]
+  },
+  {
+  "id": "120",
+  "number": "3",
+  "name": "Späth-Arboretum der HU",
+  "art": null,
+  "takt": null,
+  "anbindung": "Dieser Standort ist nicht an eine Shuttlebus-Route angebunden. Bitte benutzen Sie den öffentlichen Nahverkehr: Linienbusse 170 bzw. 265 zur Haltestelle Baumschulenstraße/Königsheideweg.",
+  "haltestellen": [
+                   {
+                   "id": "63",
+                   "name": "Baumschulenstraße/Königsheideweg",
+                   "geo1": "52.45582,13.47492",
+                   "umstieg": "Bus 170, Bus 265"
+                   }
+                   ]
+  },
+  {
+  "id": "11",
+  "number": "4",
+  "name": "Archenhold-Sternwarte",
+  "art": "Ringlinie",
+  "takt": "30 Minuten",
+  "anbindung": "Start jeweils zur vollen und halben Stunde ab S Treptower Park",
+  "haltestellen": [
+                   {
+                   "id": "43",
+                   "name": "S Treptower Park",
+                   "geo1": "52.49412,13.46114",
+                   "umstieg": "S8, S9, S41, S42, S85"
+                   },
+                   {
+                   "id": "42",
+                   "name": "Alt-Treptow",
+                   "geo1": "52.48712,13.47723",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "159",
+                   "name": "S Treptower Park",
+                   "geo1": "52.49412,13.46114",
+                   "umstieg": "S8, S9, S41, S42, S85"
+                   }
+                   ]
+  },
+  {
+  "id": "12",
+  "number": "5",
+  "name": "Lise-Meitner-Schule",
+  "art": "Ringlinie",
+  "takt": "20 Minuten",
+  "anbindung": "Start jeweils ‘00, ‘20, ‘40",
+  "haltestellen": [
+                   {
+                   "id": "71",
+                   "name": "U Johannisthaler Chaussee",
+                   "geo1": "52.42914,13.45303",
+                   "umstieg": "U7"
+                   },
+                   {
+                   "id": "44",
+                   "name": "Lipschitzallee/Rudower Straße",
+                   "geo1": "52.43222,13.47310",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "45",
+                   "name": "U Johannisthaler Chaussee",
+                   "geo1": "52.42884,13.45399",
+                   "umstieg": "U7"
+                   }
+                   ]
+  },
+  {
+  "id": "2",
+  "number": "6",
+  "name": "Buch",
+  "art": "Ringlinie",
+  "takt": "15 Minuten",
+  "anbindung": null,
+  "haltestellen": [
+                   {
+                   "id": "10",
+                   "name": "S Berlin-Buch",
+                   "geo1": "52.63712,13.49190",
+                   "umstieg": "S2"
+                   },
+                   {
+                   "id": "11",
+                   "name": "Campus Berlin-Buch",
+                   "geo1": "52.62574,13.50289",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "12",
+                   "name": "Klinikum Buch",
+                   "geo1": "52.63153,13.51141",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "13",
+                   "name": "S Berlin-Buch",
+                   "geo1": "52.63733,13.49193",
+                   "umstieg": "S2"
+                   }
+                   ]
+  },
+  {
+  "id": "4",
+  "number": "7",
+  "name": "Wedding/Mitte-Nord",
+  "art": "Ringlinie",
+  "takt": "15 Minuten",
+  "anbindung": null,
+  "haltestellen": [
+                   {
+                   "id": "16",
+                   "name": "U Amrumer Straße",
+                   "geo1": "52.54308,13.34800",
+                   "umstieg": "U9"
+                   },
+                   {
+                   "id": "17",
+                   "name": "Luxemburger Straße",
+                   "geo1": "52.54222,13.35006",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "66",
+                   "name": "S+U Wedding",
+                   "geo1": "52.54273,13.36533",
+                   "umstieg": "S41, S42, S45, U6"
+                   },
+                   {
+                   "id": "183",
+                   "name": "U Reinickendorfer Straße",
+                   "geo1": "52.53987,13.37043",
+                   "umstieg": "U6"
+                   },
+                   {
+                   "id": "91",
+                   "name": "U Naturkundemuseum",
+                   "geo1": "52.53116,13.38251",
+                   "umstieg": "U6"
+                   },
+                   {
+                   "id": "213",
+                   "name": "Robert-Koch-Platz",
+                   "geo1": null,
+                   "umstieg": null
+                   },
+                   {
+                   "id": "237",
+                   "name": "Campus Charité Mitte",
+                   "geo1": null,
+                   "umstieg": null
+                   },
+                   {
+                   "id": "15",
+                   "name": "Marschallbrücke",
+                   "geo1": "52.52146,13.37998",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "100",
+                   "name": "S+U Friedrichstraße",
+                   "geo1": "52.52059,13.38811",
+                   "umstieg": "S1, S2, S25, S5, S7, S75, U6, RB 21, RB22\nÜbergang zur Route 10 (Mitte-Süd)"
+                   },
+                   {
+                   "id": "239",
+                   "name": "U Naturkundemuseum",
+                   "geo1": null,
+                   "umstieg": "U6"
+                   },
+                   {
+                   "id": "208",
+                   "name": "Hussitenstraße/Gustav-Meyer-Allee",
+                   "geo1": null,
+                   "umstieg": null
+                   },
+                   {
+                   "id": "184",
+                   "name": "U Reinickendorfer Str.",
+                   "geo1": "52.53987,13.37043",
+                   "umstieg": "U6"
+                   },
+                   {
+                   "id": "102",
+                   "name": "S+U Wedding",
+                   "geo1": "52.54290,13.36564",
+                   "umstieg": "S41, S42, S45, U6"
+                   },
+                   {
+                   "id": "23",
+                   "name": "U Amrumer Straße",
+                   "geo1": "52.54308,13.34800",
+                   "umstieg": "U9"
+                   }
+                   ]
+  },
+  {
+  "id": "194",
+  "number": "8",
+  "name": "TOTAL Deutschland",
+  "art": null,
+  "takt": null,
+  "anbindung": "Dieser Standort ist nicht an eine Shuttlebus-Route angebunden. Bitte benutzen Sie den öffentlichen Nahverkehr: S3, S5, S7, S75, U55, RE1, RE2, RE7, RB14, RB21, RB22 bis Hauptbahnhof",
+  "haltestellen": [
+                   {
+                   "id": "236",
+                   "name": "S+U Berlin Hauptbahnhof",
+                   "geo1": null,
+                   "umstieg": "S3, S5, S7, S75"
+                   }
+                   ]
+  },
+  {
+  "id": "131",
+  "number": "9",
+  "name": "Moabit",
+  "art": null,
+  "takt": null,
+  "anbindung": "Dieser Standort ist nicht an eine Shuttlebus-Route angebunden. Bitte benutzen Sie den öffentlichen Nahverkehr: U9 bis U Turmstraße",
+  "haltestellen": [
+                   {
+                   "id": "192",
+                   "name": "U Turmstraße",
+                   "geo1": "52.52639,13.34134",
+                   "umstieg": "U9"
+                   }
+                   ]
+  },
+  {
+  "id": "3",
+  "number": "10",
+  "name": "Mitte-Süd",
+  "art": "Ringlinie",
+  "takt": "15 Minuten",
+  "anbindung": null,
+  "haltestellen": [
+                   {
+                   "id": "178",
+                   "name": "S+U Friedrichstraße",
+                   "geo1": "52.52059,13.38811",
+                   "umstieg": "S1, S2, S25, S5, S7, S75, U6, RB 21, RB22\nÜbergang zur Route 10 (Mitte-Süd)"
+                   },
+                   {
+                   "id": "175",
+                   "name": "Am Kupfergraben",
+                   "geo1": "52.51914,13.39343",
+                   "umstieg": "Fußweg zum Polnischen Institut und zur Theologischen Fakultät der HU"
+                   },
+                   {
+                   "id": "179",
+                   "name": "S+U Friedrichstraße",
+                   "geo1": "52.52059,13.38811",
+                   "umstieg": "S1, S2, S25, S5, S7, S75, U6, RB 21, RB22\nÜbergang zur Route 10 (Mitte-Süd)"
+                   },
+                   {
+                   "id": "14",
+                   "name": "U Hausvogteiplatz",
+                   "geo1": "52.51334,13.39532",
+                   "umstieg": "U2"
+                   },
+                   {
+                   "id": "174",
+                   "name": "Neumannsgasse",
+                   "geo1": "52.51545,13.40373",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "218",
+                   "name": "Potsdamer Platz/Voßstraße",
+                   "geo1": null,
+                   "umstieg": "S1, S2, S25, U2"
+                   },
+                   {
+                   "id": "142",
+                   "name": "S+U Friedrichstraße",
+                   "geo1": "52.52056,13.38807",
+                   "umstieg": "S1, S2, S25, S5, S7, S75, U6, RB 21, RB22\nÜbergang zur Route 10 (Mitte-Süd)"
+                   }
+                   ]
+  },
+  {
+  "id": "190",
+  "number": "11",
+  "name": "Kreuzberg - ÖPNV",
+  "art": null,
+  "takt": null,
+  "anbindung": "Die Standorte auf dieser Route sind an den öffentlichen Nahverkehr angebunden. Bitte benutzen Sie die U6, die U7 sowie die U12.",
+  "haltestellen": [
+                   {
+                   "id": "227",
+                   "name": "Möckernbrücke",
+                   "geo1": null,
+                   "umstieg": "U12, U7"
+                   },
+                   {
+                   "id": "226",
+                   "name": "Mehringdamm",
+                   "geo1": null,
+                   "umstieg": "U6, U7"
+                   },
+                   {
+                   "id": "228",
+                   "name": "Platz der Luftbrücke",
+                   "geo1": null,
+                   "umstieg": "U6"
+                   }
+                   ]
+  },
+  {
+  "id": "189",
+  "number": "12",
+  "name": "Clean Energy Partnership",
+  "art": null,
+  "takt": null,
+  "anbindung": "Dieser Standort ist nicht an eine Shuttlebus-Route angebunden. Bitte benutzen Sie den öffentlichen Nahverkehr: S3, S5, S7, S75, RE1, RE2, RE7, RB14 bis Ostbahnhof.",
+  "haltestellen": [
+                   {
+                   "id": "238",
+                   "name": "Ostbahnhof (S+U)",
+                   "geo1": null,
+                   "umstieg": "S3, S5, S7, S75"
+                   }
+                   ]
+  },
+  {
+  "id": "191",
+  "number": "13",
+  "name": "GA Hochschule / Psychologische Hochschule Berlin",
+  "art": null,
+  "takt": null,
+  "anbindung": "Diese Standorte sind nicht an eine Shuttlebus-Route angebunden. Bitte benutzen Sie den öffentlichen Nahverkehr S5, S7, S75, U8 bis S+U Jannowitzbrücke.",
+  "haltestellen": [
+                   {
+                   "id": "225",
+                   "name": "Jannowitzbrücke (S+U)",
+                   "geo1": null,
+                   "umstieg": "S3, S5, S7, S75, U8"
+                   }
+                   ]
+  },
+  {
+  "id": "5",
+  "number": "14",
+  "name": "Charlottenburg",
+  "art": "Ringlinie",
+  "takt": "15 Minuten",
+  "anbindung": null,
+  "haltestellen": [
+                   {
+                   "id": "72",
+                   "name": "Straße des 17. Juni 135",
+                   "geo1": "52.51273,13.32643",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "24",
+                   "name": "Fasanenstraße",
+                   "geo1": "52.51206,13.33112",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "201",
+                   "name": "Urania",
+                   "geo1": null,
+                   "umstieg": null
+                   },
+                   {
+                   "id": "25",
+                   "name": "Jebensstraße/S+U Zoologischer Garten",
+                   "geo1": "52.50676,13.33160",
+                   "umstieg": "S5, S7, S75, U2, U9, diverse RE und RB"
+                   },
+                   {
+                   "id": "26",
+                   "name": "Steinplatz",
+                   "geo1": "52.50845,13.32789",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "27",
+                   "name": "U Ernst-Reuter-Platz",
+                   "geo1": "52.51168,13.32274",
+                   "umstieg": "U2"
+                   },
+                   {
+                   "id": "28",
+                   "name": "Marchstraße",
+                   "geo1": "52.51353,13.32269",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "80",
+                   "name": "Straße des 17. Juni 136",
+                   "geo1": "52.51305,13.32621",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "189",
+                   "name": "Marchstraße",
+                   "geo1": "52.51353,13.32269",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "29",
+                   "name": "Marchbrücke",
+                   "geo1": "52.51715,13.32403",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "138",
+                   "name": "Bismarckstraße",
+                   "geo1": "52.51162,13.31788",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "79",
+                   "name": "Straße des 17. Juni 135",
+                   "geo1": "52.51273,13.32643",
+                   "umstieg": null
+                   }
+                   ]
+  },
+  {
+  "id": "6",
+  "number": "15",
+  "name": "Dahlem/Steglitz",
+  "art": "Ringlinie",
+  "takt": "15 Minuten",
+  "anbindung": "Auf der Route 15 verkehren BVG-Busse als Verbindung zwischen dem S+U-Bahnhof Rathaus Steglitz und dem Gebäude Habelschwerdter Allee 45 der FU Berlin. Dort starten vier weitere Buslinien (16 GRÜN, 17 BLAU, 18 PINK und 19 ORANGE), die sämtliche Wissenschaftseinrichtungen im Südwesten Berlins direkt anfahren.",
+  "haltestellen": [
+                   {
+                   "id": "31",
+                   "name": "S+U Rathaus Steglitz / Schloßstraße",
+                   "geo1": "52.45674,13.32173",
+                   "umstieg": "S1, U9"
+                   },
+                   {
+                   "id": "32",
+                   "name": "Schmidt-Ott-Straße",
+                   "geo1": "52.45992,13.30869",
+                   "umstieg": "Busroute 17 Dahlem BLAU"
+                   },
+                   {
+                   "id": "140",
+                   "name": "Königin-Luise-Platz/Botanischer Garten",
+                   "geo1": "52.45855,13.30280",
+                   "umstieg": "Busroute 17 Dahlem BLAU und 18 Dahlem PINK"
+                   },
+                   {
+                   "id": "240",
+                   "name": "Arnimallee",
+                   "geo1": null,
+                   "umstieg": "Busroute 17 Dahlem BLAU"
+                   },
+                   {
+                   "id": "34",
+                   "name": "U Dahlem-Dorf",
+                   "geo1": "52.45810,13.28964",
+                   "umstieg": "U3, Busroute 18 Dahlem PINK"
+                   },
+                   {
+                   "id": "212",
+                   "name": "Fabeckstraße",
+                   "geo1": null,
+                   "umstieg": "Busroute 17 Dahlem BLAU"
+                   },
+                   {
+                   "id": "35",
+                   "name": "Habelschwerdter Allee/Hittorfstraße",
+                   "geo1": "52.45088,13.28728",
+                   "umstieg": "Busroute 16 GRÜN, 17 BLAU, 18 PINK, 19 ORANGE"
+                   },
+                   {
+                   "id": "36",
+                   "name": "U Dahlem-Dorf",
+                   "geo1": "52.45797,13.28980",
+                   "umstieg": "U3, Busroute 18 Dahlem PINK"
+                   },
+                   {
+                   "id": "37",
+                   "name": "Arnimallee",
+                   "geo1": "52.45773,13.29930",
+                   "umstieg": "Busroute 17 Dahlem BLAU"
+                   },
+                   {
+                   "id": "139",
+                   "name": "Königin-Luise-Platz/Botanischer Garten",
+                   "geo1": "52.45870,13.30446",
+                   "umstieg": "Busroute 17 Dahlem BLAU und 18 Dahlem PINK"
+                   },
+                   {
+                   "id": "78",
+                   "name": "Schmidt-Ott-Straße",
+                   "geo1": "52.45987,13.30971",
+                   "umstieg": "Busroute 17 Dahlem BLAU"
+                   },
+                   {
+                   "id": "38",
+                   "name": "S+U Rathaus Steglitz / Schloßstraße",
+                   "geo1": "52.45650,13.32167",
+                   "umstieg": "S1, U9"
+                   }
+                   ]
+  },
+  {
+  "id": "16",
+  "number": "16",
+  "name": "Dahlem GRÜN",
+  "art": "Ringlinie",
+  "takt": "5-8 Minuten",
+  "anbindung": null,
+  "haltestellen": [
+                   {
+                   "id": "125",
+                   "name": "G1 - Habelschwerdter Allee",
+                   "geo1": "52.451881,13.286719",
+                   "umstieg": "Busrouten 16 GRÜN, 17 BLAU, 18 PINK, 19 ORANGE"
+                   },
+                   {
+                   "id": "193",
+                   "name": "G2 - Thielallee",
+                   "geo1": "52.45136,13.28695",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "126",
+                   "name": "G3 - Landoltweg",
+                   "geo1": "52.44977,13.28610",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "229",
+                   "name": "G4 - Goßlerstr.",
+                   "geo1": null,
+                   "umstieg": null
+                   },
+                   {
+                   "id": "194",
+                   "name": "G5 - Ihnestr. 22",
+                   "geo1": "52.44480,13.27428",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "50",
+                   "name": "G6 - Harnackhaus",
+                   "geo1": null,
+                   "umstieg": null
+                   },
+                   {
+                   "id": "145",
+                   "name": "G7 - U Thielplatz",
+                   "geo1": "52.451361,13.282927",
+                   "umstieg": "U3"
+                   },
+                   {
+                   "id": "153",
+                   "name": "G8 - Habelschwerdter Allee",
+                   "geo1": "52.451881,13.286719",
+                   "umstieg": null
+                   }
+                   ]
+  },
+  {
+  "id": "17",
+  "number": "17",
+  "name": "Dahlem BLAU",
+  "art": "Ringlinie",
+  "takt": "5-8 Minuten",
+  "anbindung": null,
+  "haltestellen": [
+                   {
+                   "id": "53",
+                   "name": "B1 - Habelschwerdter Allee",
+                   "geo1": "52.451766,13.287063",
+                   "umstieg": "Busroute 16 GRÜN, 18 PINK, 19 ORANGE"
+                   },
+                   {
+                   "id": "90",
+                   "name": "B2 - Fabeckstraße 23/25",
+                   "geo1": null,
+                   "umstieg": null
+                   },
+                   {
+                   "id": "131",
+                   "name": "B3 - Takustr. - Arnimallee",
+                   "geo1": "52.45569,13.29446",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "130",
+                   "name": "B4 - Arnimallee",
+                   "geo1": "52.456532,13.296332",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "231",
+                   "name": "B5 - Jürgen-Fuchs-Platz",
+                   "geo1": null,
+                   "umstieg": null
+                   },
+                   {
+                   "id": "132",
+                   "name": "B6 - Königin-Luise-Straße 12",
+                   "geo1": "52.458242,13.301651",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "73",
+                   "name": "B7 - Königin-Luise-Straße 2-4",
+                   "geo1": "52.458696,13.304272",
+                   "umstieg": "Busroute 18 PINK"
+                   },
+                   {
+                   "id": "62",
+                   "name": "B8 - Schmidt-Ott-Str.",
+                   "geo1": "52.45873,13.31065",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "196",
+                   "name": "B9 - Fabeckstr. 62",
+                   "geo1": null,
+                   "umstieg": null
+                   },
+                   {
+                   "id": "86",
+                   "name": "B10 - Schwendenerstr.",
+                   "geo1": null,
+                   "umstieg": "Busroute 18 PINK"
+                   },
+                   {
+                   "id": "88",
+                   "name": "B11 - Fabeckstr. 34",
+                   "geo1": null,
+                   "umstieg": "Busroute 18 PINK"
+                   },
+                   {
+                   "id": "154",
+                   "name": "B12 - Habelschwerdter Allee",
+                   "geo1": "52.451766,13.287063",
+                   "umstieg": null
+                   }
+                   ]
+  },
+  {
+  "id": "18",
+  "number": "18",
+  "name": "Dahlem PINK",
+  "art": "Ringlinie",
+  "takt": "5-8 Minuten",
+  "anbindung": null,
+  "haltestellen": [
+                   {
+                   "id": "55",
+                   "name": "P1 - Habelschwerdter Allee",
+                   "geo1": "52.451655,13.287116",
+                   "umstieg": "Busrouten 16 GRÜN, 17 BLAU, 19 ORANGE"
+                   },
+                   {
+                   "id": "56",
+                   "name": "P2 - Brümmerstraße/Fabeckstraße",
+                   "geo1": "52.456572,13.289337",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "230",
+                   "name": "P3 - Lansstr.",
+                   "geo1": "52.457055,13.292116",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "147",
+                   "name": "P4 - Königin-Luise-Str.",
+                   "geo1": null,
+                   "umstieg": "Busroute 17 BLAU"
+                   },
+                   {
+                   "id": "149",
+                   "name": "P5 - Koserstr",
+                   "geo1": null,
+                   "umstieg": "Busroute 17 BLAU"
+                   },
+                   {
+                   "id": "59",
+                   "name": "P6 - U Podbielskiallee",
+                   "geo1": "52.464531,13.295289",
+                   "umstieg": "Busroute 17 BLAU"
+                   },
+                   {
+                   "id": "232",
+                   "name": "P7 - Albrecht-Thaer-Weg",
+                   "geo1": null,
+                   "umstieg": null
+                   },
+                   {
+                   "id": "61",
+                   "name": "P8 - Lentzeallee",
+                   "geo1": null,
+                   "umstieg": null
+                   },
+                   {
+                   "id": "144",
+                   "name": "P9 - Albrecht-Thaer-Weg",
+                   "geo1": null,
+                   "umstieg": null
+                   },
+                   {
+                   "id": "150",
+                   "name": "P10 - U Podbielskiallee",
+                   "geo1": "52.464531,13.295289",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "155",
+                   "name": "P11 - Königin-Luise-Platz",
+                   "geo1": null,
+                   "umstieg": "Busroute 17 Blau"
+                   },
+                   {
+                   "id": "233",
+                   "name": "P12 - Schwendenstr.",
+                   "geo1": null,
+                   "umstieg": "Busroute 17 Blau"
+                   },
+                   {
+                   "id": "234",
+                   "name": "P13 - Fabeckstr. 34",
+                   "geo1": null,
+                   "umstieg": "Busroute 17 Blau"
+                   },
+                   {
+                   "id": "235",
+                   "name": "P14 - Habelschwerdter Allee",
+                   "geo1": null,
+                   "umstieg": null
+                   }
+                   ]
+  },
+  {
+  "id": "170",
+  "number": "19",
+  "name": "Dahlem ORANGE",
+  "art": "Ringlinie",
+  "takt": "10-15 Minuten",
+  "anbindung": null,
+  "haltestellen": [
+                   {
+                   "id": "76",
+                   "name": "O1 - Habelschwerdter Allee",
+                   "geo1": "52.451088,13.287347",
+                   "umstieg": "Busroute 16 GRÜN, 17 BLAU, 18 PINK"
+                   },
+                   {
+                   "id": "70",
+                   "name": "O2 - Charité - Campus Benjamin Franklin, Westhalle",
+                   "geo1": "52.442284,13.319678",
+                   "umstieg": null
+                   },
+                   {
+                   "id": "157",
+                   "name": "O5 - Habelschwerdter Allee",
+                   "geo1": "52.451088,13.287347",
+                   "umstieg": null
+                   }
+                   ]
+  },
+  {
+  "id": "193",
+  "number": "20",
+  "name": "Wannsee",
+  "art": null,
+  "takt": null,
+  "anbindung": "Zwischen dem S-Bahnhof Wannsee und dem Hahn-Meitner-Platz verkehren Shuttlebusse im 15-Minuten-Takt. Zusätzlich gibt es eine direkte Busverbindung zwischen dem Helmholtz-Zentrum in Berlin-Wannsee und dem Potsdamer Telegrafenberg. Abfahrten am Hahn-Meitner-Platz: 18:00, 19:20, 20:40, 22:00, 23:20 Uhr. Abfahrten am Telegrafenberg: 17:20, 18:40, 20:00, 21:20, 22:40 Uhr.",
+  "haltestellen": [
+                   {
+                   "id": "219",
+                   "name": "S Wannsee",
+                   "geo1": null,
+                   "umstieg": "S1, S7"
+                   },
+                   {
+                   "id": "220",
+                   "name": "Rathaus Wannsee",
+                   "geo1": null,
+                   "umstieg": null
+                   },
+                   {
+                   "id": "221",
+                   "name": "Hahn-Meitner-Platz",
+                   "geo1": null,
+                   "umstieg": "Shuttlebus zum Telegrafenberg"
+                   },
+                   {
+                   "id": "222",
+                   "name": "S Wannsee",
+                   "geo1": null,
+                   "umstieg": "S1, S7"
+                   }
+                   ]
+  },
+  {
+  "id": "9",
+  "number": "21",
+  "name": "Potsdam-Telegrafenberg",
+  "art": "Ringlinie",
+  "takt": "15 Minuten",
+  "anbindung": "Zwischen dem Hauptbahnhof Potsdam und dem Telegrafenberg verkehren Shuttlebusse im 15-Minuten-Takt. Zusätzlich gibt es eine direkte Busverbindung zwischen dem Helmholtz-Zentrum in Berlin-Wannsee und dem Potsdamer Telegrafenberg. Abfahrten am Hahn-Meitner-Platz: 18:00, 19:20, 20:40, 22:00, 23:20 Uhr. Abfahrten am Telegrafenberg: 17:20, 18:40, 20:00, 21:20, 22:40 Uhr.",
+  "haltestellen": [
+                   {
+                   "id": "83",
+                   "name": "Potsdam Hauptbahnhof",
+                   "geo1": "52.39059,13.06678",
+                   "umstieg": "S7, RE und RB"
+                   },
+                   {
+                   "id": "40",
+                   "name": "Telegrafenberg",
+                   "geo1": "52.38310,13.06699",
+                   "umstieg": "Shuttlebus zum Hahn-Meitner-Platz"
+                   },
+                   {
+                   "id": "84",
+                   "name": "Potsdam Hauptbahnhof",
+                   "geo1": "52.39059,13.06678",
+                   "umstieg": "S7, RE und RB"
+                   }
+                   ]
+  },
+  {
+  "id": "188",
+  "number": "22",
+  "name": "Mobile Endlagerausstellung des Bundesamtes für Strahlenschutz",
+  "art": "ohne Routenanbindung",
+  "takt": null,
+  "anbindung": "Dieser Standort ist nicht an eine Shuttlebus-Route angebunden. Bitte benutzen Sie den öffentlichen Nahverkehr: Tram-Linien 91, 92, 93, 96, 98 oder 99 bis Alter Markt/Landtag.",
+  "haltestellen": [
+                   {
+                   "id": "215",
+                   "name": "Alter Markt/Landtag",
+                   "geo1": null,
+                   "umstieg": null
+                   }
+                   ]
+  }
+  ]
